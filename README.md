@@ -15,3 +15,5 @@ Creates Email & Phone Verified Discord Account
 - ⚡ Creates Unlocked Accounts
 
 Source will be released after 30+ Stars 
+
+Discord: Avenger#7501
