@@ -11,4 +11,7 @@ Creates Email & Phone Verified Discord Account
 //
 -| Generation is done through HTTP REQUEST 
 -| Account Generated is same quality as account created manually
+- Account does not get disabled after joining servers good quality
 -| Creates Unlocked Accounts
+
+Source will be released after 30+ Stars 
