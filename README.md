@@ -1,5 +1,7 @@
 # Discord-Token-Generator
 
+Currently paid not accepting offers below 100$ , will be released in future when i don't need it anymore
+
 Creates Email & Phone Verified Discord Account
 
 - Uses SMS-ACTIVATE.RU api for Phone Verification
@@ -14,6 +16,6 @@ Creates Email & Phone Verified Discord Account
 - ⚡ Account does not get disabled after joining servers good quality
 - ⚡ Creates Unlocked Accounts
 
-Source will be released after 30+ Stars 
+
 
 Discord: Avenger#7501
